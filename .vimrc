@@ -20,3 +20,4 @@ set tw=90
 set clipboard=unnamed
 inoremap <C-e> <Esc>A
 inoremap <C-a> <Esc>I
+let g:rustfmt_autosave = 1
