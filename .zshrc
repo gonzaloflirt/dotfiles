@@ -1,3 +1,4 @@
+export HOMEBREW_NO_ANALYTICS=1
 export ZSH=~/.zsh
 
 for config_file ($ZSH/lib/*.zsh) source $config_file
