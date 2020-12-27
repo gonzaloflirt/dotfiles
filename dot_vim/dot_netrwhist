@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/gonzalo/dev/aoc-2020/.git'
+let g:netrw_dirhist_5='/Users/gonzalo/dev/aoc-2020/aoc-2020-03'
+let g:netrw_dirhist_4='/Users/gonzalo/dev/aoc-2020/aoc-2020-02'
+let g:netrw_dirhist_3='/Users/fgo/dev/move/shared/container'
+let g:netrw_dirhist_2='/Users/fgo/dev/live/third-party/AblRustBindings/releases'
+let g:netrw_dirhist_1='/Users/fgo/dev/live/third-party/AblRustBindings'
+let g:netrw_dirhist_0='/Users/fgo/dev/crate/client/abl_rust_bindings'
+let g:netrw_dirhist_9='/Users/fgo/dev/crate/docker/move'
+let g:netrw_dirhist_8='/Users/fgo/Library/Preferences/Ableton/Live 11.0d1'
+let g:netrw_dirhist_7='/Users/fgo/Library/Application Support/Ableton'
